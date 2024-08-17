@@ -1,0 +1,6 @@
+ProductGroupID,ProductGroupName,CategoryDescription,ParentGroupID,GroupCode,GroupManager,DateCreated,LastUpdated,ActiveStatus,DefaultTaxRate,AssociatedMarketTrendID
+1,Electronics,All electronic items including computers and accessories.,,ELEC,John Doe,2023-01-15,2024-01-10,True,0.18,101
+2,Home Appliances,"Appliances for home use such as refrigerators, washing machines.",,HOME,Jane Smith,2023-02-10,2024-02-15,True,0.18,102
+3,Mobile Devices,"Smartphones, tablets, and other mobile devices.",1.0,MOB,Mike Johnson,2023-03-05,2024-03-20,True,0.15,103
+4,Wearable Technology,"Wearable devices like smartwatches, fitness trackers.",1.0,WEAR,Sara Lee,2023-04-20,2024-04-25,True,0.12,104
+5,Gaming Consoles,Consoles and accessories for gaming.,1.0,GAME,Tom Brown,2023-05-25,2024-05-30,True,0.1,105
