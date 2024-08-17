@@ -1,0 +1,21 @@
+ProductDetailID,ProductName,ProductGroupID,UnitPrice,Description,StockLevel,SKU,Weight,Dimensions,Manufacturer,WarrantyPeriod,DateAdded,SupplierID
+1,Smartphone X,1,699.99,High-end smartphone,150,SPX-001,0.2,5x3x0.3 in,TechCorp,24 months,2023-01-31,10
+2,Laptop Y,2,1199.99,Powerful laptop,80,LPY-002,2.5,15x10x1 in,Innovatech,12 months,2023-02-28,20
+3,Tablet Z,3,499.99,Portable tablet,120,TBZ-003,0.5,8x5x0.5 in,GizmoWorks,12 months,2023-03-31,30
+4,Smartwatch A,4,199.99,Fitness smartwatch,200,SWA-004,0.1,2x1.5x0.4 in,FitTech,18 months,2023-04-30,40
+5,Headphones B,5,149.99,Noise-cancelling headphones,250,HDB-005,0.25,7x6x3 in,SoundMaster,24 months,2023-05-31,50
+6,Bluetooth Speaker C,6,89.99,Compact speaker,180,BSC-006,1.0,6x6x5 in,WaveAudio,12 months,2023-06-30,60
+7,Camera D,7,499.99,High-resolution camera,100,CMD-007,0.8,5x4x3 in,CaptureVision,24 months,2023-07-31,70
+8,Gaming Console E,8,399.99,Next-gen console,60,GCE-008,3.2,14x12x4 in,PlayHub,24 months,2023-08-31,80
+9,Smart TV F,9,999.99,Ultra HD smart TV,90,STV-009,8.0,45x30x2 in,ViewMax,36 months,2023-09-30,90
+10,Monitor G,10,299.99,4K Monitor,110,MTG-010,6.5,25x15x1 in,ScreenMasters,24 months,2023-10-31,100
+11,Keyboard H,11,59.99,Mechanical keyboard,300,KBH-011,0.8,18x7x2 in,Keytronics,12 months,2023-11-30,110
+12,Mouse I,12,39.99,Wireless mouse,320,MSI-012,0.1,4x2x1 in,ClickPro,12 months,2023-12-31,120
+13,Printer J,13,149.99,All-in-one printer,70,PRJ-013,7.0,20x18x12 in,PrintEase,18 months,2024-01-31,130
+14,Router K,14,79.99,Dual-band router,130,RTK-014,0.6,12x8x2 in,NetLink,24 months,2024-02-29,140
+15,External Hard Drive L,15,129.99,1TB storage,50,HDL-015,0.3,4x2x1 in,DataStore,24 months,2024-03-31,150
+16,Drone M,16,799.99,Quadcopter drone,40,DRM-016,1.5,20x20x10 in,SkyTech,24 months,2024-04-30,160
+17,VR Headset N,17,399.99,Immersive VR headset,85,VRN-017,0.9,10x8x5 in,Immersia,12 months,2024-05-31,170
+18,Smart Home Hub O,18,299.99,Centralized smart home control,95,SHO-018,0.7,8x6x4 in,SmartHome,24 months,2024-06-30,180
+19,Fitness Tracker P,19,149.99,Health and activity tracker,160,FTP-019,0.05,3x1x0.5 in,ActiveLife,18 months,2024-07-31,190
+20,Wireless Charger Q,20,59.99,Fast wireless charger,210,WCQ-020,0.2,4x4x1 in,PowerUp,12 months,2024-08-31,200
