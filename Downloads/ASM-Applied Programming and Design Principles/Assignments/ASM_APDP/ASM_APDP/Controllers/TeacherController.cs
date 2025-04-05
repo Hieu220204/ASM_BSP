@@ -15,6 +15,16 @@ public class TeacherController : Controller
         return View(); // Render ChangePasswordTeacher view
     }
 
+    public IActionResult ManageGrade()
+    {
+        return View(); // Đảm bảo có file View tương ứng
+    }
+
+    public IActionResult ManageAttendance()
+    {
+        return View(); // Đảm bảo có file View tương ứng
+    }
+
     // Handle password change
     [HttpPost]
     public IActionResult ChangePasswordTeacher(string email, string oldPassword, string newPassword, string confirmPassword)
@@ -57,7 +67,7 @@ public class TeacherController : Controller
 
 
     // Action to show Manage Grades page
-    public IActionResult ManageGrades()
+    public IActionResult ManageGrade()
     {
         var grades = Grade.GetGrades(); // Lấy dữ liệu điểm từ cơ sở dữ liệu
         return View(grades); // Trả về dữ liệu điểm cho View
