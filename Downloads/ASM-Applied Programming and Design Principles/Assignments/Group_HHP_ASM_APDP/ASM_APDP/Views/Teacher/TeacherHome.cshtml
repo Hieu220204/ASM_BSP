@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Teacher Home";
+}
+
+<h2>Welcome, Teacher</h2>
+
+<!-- Nút Xem Lịch Học -->
+<a href="@Url.Action("ViewSchedule", "Teacher")">
+    <button>View Class Schedule</button>
+</a>
+
+<!-- Nút Quản lý Điểm số -->
+<a href="@Url.Action("ManageGrades", "Teacher")">
+    <button>Manage Grades</button>
+</a>
+
+<!-- Nút Quản lý Điểm danh -->
+<a href="@Url.Action("ManageAttendance", "Teacher")">
+    <button>Manage Attendance</button>
+</a>
+
+<!-- Nút Cập nhật hồ sơ -->
+<a href="@Url.Action("UpdateProfile", "Teacher")">
+    <button>Update Profile</button>
+</a>
+
+<!-- Nút Logout -->
+<form method="post" action="@Url.Action("Logout", "Auth")">
+    <button type="submit">Logout</button>
+</form>
